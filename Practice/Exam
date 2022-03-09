@@ -1,7 +1,6 @@
 Problem-1: Sudoko Problem
 
 
-//192318
 //problem-1
 #include<bits/stdc++.h>
 using namespace std;
@@ -76,7 +75,6 @@ int main()
 Problem-2: Platform Selection
 
 
-//192318
 //problem-2
 #include<bits/stdc++.h>
 using namespace std;
